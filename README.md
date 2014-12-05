@@ -5,3 +5,5 @@ ajout d'une branche
 	creation new01.tx
 
 branch 01 02 created from Branch 01
+Branch01_02_02 created from Branch 01_02
+
